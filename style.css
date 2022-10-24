@@ -104,3 +104,20 @@ body{
     line-height: 24px;
     opacity: 0.8;
 }
+
+.descricao-combo{
+    margin-right: 10em;
+}
+
+.img-terceira{
+    text-align: center;
+}
+
+.botao-assine{
+    display: inline-block;
+    text-align: center;
+    line-height: 24px;
+    width: 134px;
+    height: 1.5em;
+    margin-top: 1em;
+}
