@@ -80,3 +80,27 @@ body{
 .container-filho-caixa{
     margin: 0 6em;
 }
+
+
+.secundario{
+    align-items: center;
+    text-align: flex-start;
+    margin: 0 10em;
+}
+.img-secundaria{
+    width: 80%;
+}
+
+.descricao-beneficio-titulo{
+    font-size: 48px;
+    line-height: 58px;
+    margin-bottom: 8px;
+    font-weight: 700;
+}
+
+.descricao-beneficio-texto{
+    font-size: 16px;
+    color: var(--cinza-secundario);
+    line-height: 24px;
+    opacity: 0.8;
+}
